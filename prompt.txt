@@ -1,0 +1,1 @@
+Write a program that outputs one funny one-line excuse an AI agent gives for missing a deadline, under 200 characters, in the agent's own voice: total confidence meeting total failure, one single absurd reason, no list of excuses and no explaining the joke. The program must be deterministic and write the line to entry.txt.
